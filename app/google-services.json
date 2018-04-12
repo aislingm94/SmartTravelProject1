@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "17173357415",
+    "firebase_url": "https://smarttravelproject-844cf.firebaseio.com",
+    "project_id": "smarttravelproject-844cf",
+    "storage_bucket": "smarttravelproject-844cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17173357415:android:49f342549e83ebe2",
+        "android_client_info": {
+          "package_name": "com.example.aisli.smarttravelproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17173357415-kaccmd7tj8vk6slpb0o5k01o15bhf76e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4EEjHaLIRInaTaXGULmcmc_XDSpPGcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
